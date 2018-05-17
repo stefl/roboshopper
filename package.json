@@ -1,0 +1,15 @@
+{
+  "name": "roboshopper",
+  "version": "1.0.0",
+  "description": "Shop like a robot!",
+  "main": "index.js",
+  "author": "Stef Lewandowski",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "puppeteer": "^1.4.0"
+  },
+  "scripts": {
+    "robot": "node ./index.js"
+  }
+}
